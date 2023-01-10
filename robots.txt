@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://altium-aeronautics.glitch.me/sitemap
