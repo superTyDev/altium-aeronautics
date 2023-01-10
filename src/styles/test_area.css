@@ -1,0 +1,12 @@
+/*  ths is simply an area I as in connor can try stuff without ruining all progress made*/
+/*  made  9/21/22*/
+/*  My dad just read the legal agreement over my sholder, he loves it */
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: line-through;
+  color: "blue";
+}
